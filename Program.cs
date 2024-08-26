@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace aula3_cs_ex6
 {
+    
+    /*Escreva um programa em C# que leia um valor em binário até 6 dígitos e escreva o 
+    número correspondente em decimal.*/
+    
     internal class Program
     {
         bool valor = false;
