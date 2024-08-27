@@ -32,7 +32,5 @@ namespace aula3_cs_ex6
             Console.WriteLine("O valor decimal foi: {0}", valordecimal);
             Console.ReadKey();
         }
-        
-    
     }
 }
